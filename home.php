@@ -52,7 +52,7 @@
   
   <body>
     <div class="form">
-      <form name="Advanced Search - Home" method="POST" action="advanced_2.php">
+      <form name="Advanced Search - Home" method="POST" action="advanced_search.php">
         <div class="row">
           <div class="column_1">
             <div style="display:inline-block;text-align:left">
